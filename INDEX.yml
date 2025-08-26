@@ -1,0 +1,9 @@
+version: 1
+ultima_actualizacion: 2025-08-27
+ambito: Castilla y León
+sector_inicial: Educación
+rutas: []         # aquí irán las rutas de cada norma que añadamos
+categorias:
+  permisos: []
+  licencias: []
+  oposiciones: []
