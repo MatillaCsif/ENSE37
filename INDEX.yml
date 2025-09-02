@@ -1,9 +1,11 @@
-version: 1
-ultima_actualizacion: 2025-08-27
-ambito: Castilla y León
-sector_inicial: Educación
-rutas: []         # aquí irán las rutas de cada norma que añadamos
 categorias:
   permisos: []
   licencias: []
   oposiciones: []
+  centros_docentes_no_universitarios:
+    - slug: orden-edu-614-2024-escuelas-saludables
+      nombre: ORDEN EDU/614/2024 – Escuelas Saludables
+      carpeta: Centros docentes no universitarios
+      archivo: 2024-EDU-614-escuelas-saludables.md
+      resumen: Regula el proyecto y la Red de Escuelas Saludables de Castilla y León.
+      palabras_clave: [escuelas saludables, innovación educativa, salud, centros escolares, red]
