@@ -7,3 +7,4 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2018‑EDU‑1353‑acreditacion‑docencia‑privada](Centros docentes no universitarios/2018-EDU-1353-acreditacion-docencia-privada.md): Orden que regula la acreditación de docentes en centros de titularidad privada.
 - [2018‑EDU‑1205‑puestos‑especial‑dificultad](Centros docentes no universitarios/2018-EDU-1205-puestos-especial-dificultad.md): Orden que establece criterios para calificar puestos docentes como de especial dificultad.
 - [2017‑EDU‑1070‑protocolo‑agresiones‑docentes](Centros docentes no universitarios/2017-EDU-1070-protocolo-agresiones-docentes.md): Orden que establece el protocolo de actuación frente a agresiones al personal docente y no docente.
+- [2017‑EDU‑716‑profesor‑honorifico‑colaborador](Centros docentes no universitarios/2017-EDU-716-profesor-honorifico-colaborador.md): Orden que regula la figura del profesor honorífico colaborador y su nombramiento.
