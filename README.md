@@ -10,3 +10,4 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2017‑EDU‑716‑profesor‑honorifico‑colaborador](Centros docentes no universitarios/2017-EDU-716-profesor-honorifico-colaborador.md): Orden que regula la figura del profesor honorífico colaborador y su nombramiento.
 - [2017-EDU-694-profesorado-puestos-itinerantes](Centros docentes no universitarios/2017-EDU-694-profesorado-puestos-itinerantes.md): Orden que regula aspectos del profesorado en puestos compartidos e itinerantes en centros públicos.
 - [2016-EDU-106-solicitudes-aplicativo-informatico](Centros docentes no universitarios/2016-EDU-106-solicitudes-aplicativo-informatico.md): Orden que regula la obligatoriedad de presentar solicitudes en procesos docentes vía aplicativo informático.
+- [2015-EDU-834-plan-seguridad-confianza-digital](Centros docentes no universitarios/2015-EDU-834-plan-seguridad-confianza-digital.md): Orden que regula el proyecto "Plan de Seguridad y Confianza Digital" en el ámbito educativo.
