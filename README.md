@@ -8,3 +8,4 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2018‑EDU‑1205‑puestos‑especial‑dificultad](Centros docentes no universitarios/2018-EDU-1205-puestos-especial-dificultad.md): Orden que establece criterios para calificar puestos docentes como de especial dificultad.
 - [2017‑EDU‑1070‑protocolo‑agresiones‑docentes](Centros docentes no universitarios/2017-EDU-1070-protocolo-agresiones-docentes.md): Orden que establece el protocolo de actuación frente a agresiones al personal docente y no docente.
 - [2017‑EDU‑716‑profesor‑honorifico‑colaborador](Centros docentes no universitarios/2017-EDU-716-profesor-honorifico-colaborador.md): Orden que regula la figura del profesor honorífico colaborador y su nombramiento.
+- [2017-EDU-694-profesorado-puestos-itinerantes](Centros docentes no universitarios/2017-EDU-694-profesorado-puestos-itinerantes.md): Orden que regula aspectos del profesorado en puestos compartidos e itinerantes en centros públicos.
