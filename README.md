@@ -24,6 +24,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2011‑EDU‑1134‑auxiliares‑conversacion](Centros docentes no universitarios/2011-EDU-1134-auxiliares-conversacion.md): Orden que regula la actividad de los auxiliares de conversación del Ministerio de Educación en centros de Castilla y León.
 - [2011-RESOLUCION-20-titulaciones-centros-privados](Centros docentes no universitarios/2011-RESOLUCION-20-titulaciones-centros-privados.md): Resolución que regula las titulaciones exigidas al profesorado de centros privados en Castilla y León.
 - [2009-EDU-1727-estancias-formacion-empresas](Centros docentes no universitarios/2009-EDU-1727-estancias-formacion-empresas.md): Orden que regula la participación del profesorado de Formación Profesional en estancias de formación en empresas, cofinanciadas por el Fondo Social Europeo. Modificada en 2015.
+- [2009-EDU-1727-estancias-formacion-empresas](Centros docentes no universitarios/2009-EDU-1727-estancias-formacion-empresas.md): Orden que regula la participación del profesorado de Formación Profesional en estancias de formación en empresas, cofinanciadas por el Fondo Social Europeo. Modificada en 2015.
 
 
 
