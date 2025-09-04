@@ -18,3 +18,4 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2014-EDU-670-permisos-elecciones-sindicales](Centros docentes no universitarios/2014-EDU-670-permisos-elecciones-sindicales.md): Orden que regula los permisos otorgados al personal docente con motivo de elecciones sindicales.
 - [2014-EDU-423-vacaciones-permisos-licencias](Centros docentes no universitarios/2014-EDU-423-vacaciones-permisos-licencias.md): Orden que adapta la regulación de vacaciones, permisos y licencias del personal docente, modificada en 2015 y 2017.
 - [2014-LEY-3-autoridad-profesorado](Centros docentes no universitarios/2014-LEY-3-autoridad-profesorado.md): Ley que reconoce la autoridad del profesorado y establece medidas de protección y convivencia escolar.
+[2013‑EDU‑381‑especialidades‑maestros](Centros docentes no universitarios/2013-EDU-381-especialidades-maestros.md): Orden que regula la adquisición de nuevas especialidades docentes en el Cuerpo de Maestros.
