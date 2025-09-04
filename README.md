@@ -21,3 +21,4 @@ Normativa Castilla y León (Educación) para ALECYL
 [2013‑EDU‑381‑especialidades‑maestros](Centros docentes no universitarios/2013-EDU-381-especialidades-maestros.md): Orden que regula la adquisición de nuevas especialidades docentes en el Cuerpo de Maestros.
 [2012‑EDU‑524‑consolidacion‑directores](Centros docentes no universitarios/2012-EDU-524-consolidacion-directores.md): Orden que regula el procedimiento para consolidar parcialmente el complemento específico por haber ejercido el cargo de director.
 [2012‑EDU‑454‑redistribucion‑efectivos](Centros docentes no universitarios/2012-EDU-454-redistribucion-efectivos.md): Orden que regula criterios para redistribución y recolocación de efectivos docentes en centros públicos.
+[2011‑EDU‑1134‑auxiliares‑conversacion](Centros docentes no universitarios/2011-EDU-1134-auxiliares-conversacion.md): Orden que regula la actividad de los auxiliares de conversación del Ministerio de Educación en centros de Castilla y León.
