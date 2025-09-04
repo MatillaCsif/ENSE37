@@ -26,6 +26,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2009-EDU-1727-estancias-formacion-empresas](Centros docentes no universitarios/2009-EDU-1727-estancias-formacion-empresas.md): Orden que regula la participación del profesorado de Formación Profesional en estancias de formación en empresas, cofinanciadas por el Fondo Social Europeo. Modificada en 2015.
 - [2009-EDU-1727-estancias-formacion-empresas](Centros docentes no universitarios/2009-EDU-1727-estancias-formacion-empresas.md): Orden que regula la participación del profesorado de Formación Profesional en estancias de formación en empresas, cofinanciadas por el Fondo Social Europeo. Modificada en 2015.
 - [2008-EDU-1373-inspeccion-educativa](Centros docentes no universitarios/2008-EDU-1373-inspeccion-educativa.md): Orden que desarrolla el Decreto 92/2004 regulando la Inspección Educativa en Castilla y León.
+- [2008-EDU-1076-desplazamiento-maestros](Centros docentes no universitarios/2008-EDU-1076-desplazamiento-maestros.md): Orden que regula el desplazamiento, cese y adscripción de maestros afectados por modificaciones en las plantillas jurídicas de centros públicos.
 
 
 
