@@ -33,6 +33,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2002-ORDEN-analogia-retributiva-concertada](Centros docentes no universitarios/2002-ORDEN-analogia-retributiva-concertada.md): Orden que establece la analogía retributiva del profesorado de la enseñanza concertada con el profesorado de la enseñanza pública en Castilla y León.
 - [2001-ORDEN-comites-seguridad-salud](Centros docentes no universitarios/2001-ORDEN-comites-seguridad-salud.md): Orden que crea los Comités de Seguridad y Salud en el ámbito del personal transferido en materia de Educación no universitaria.
 - [2000-ORDEN-profesorado-itinerante](Centros docentes no universitarios/2000-ORDEN-profesorado-itinerante.md): Orden que establece medidas relativas al profesorado singular itinerante que presta servicios en la Comunidad Autónoma de Castilla y León.
+- [2000-ORDEN-interinos-provision](Centros docentes no universitarios/2000-ORDEN-interinos-provision.md): Orden que regula la provisión de puestos de trabajo docentes no universitarios en régimen de interinidad en Castilla y León.
 
 
 
