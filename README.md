@@ -31,6 +31,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2006-DECRETO-84-consolidacion-directores](Centros docentes no universitarios/2006-DECRETO-84-consolidacion-directores.md): Decreto que regula la consolidación parcial del complemento específico por el ejercicio del cargo de director en centros docentes públicos no universitarios.
 - [2004-DECRETO-92-inspeccion-educativa](Centros docentes no universitarios/2004-DECRETO-92-inspeccion-educativa.md): Decreto que regula la organización, funciones y atribuciones de la Inspección Educativa en Castilla y León.
 - [2002-ORDEN-analogia-retributiva-concertada](Centros docentes no universitarios/2002-ORDEN-analogia-retributiva-concertada.md): Orden que establece la analogía retributiva del profesorado de la enseñanza concertada con el profesorado de la enseñanza pública en Castilla y León.
+- [2001-ORDEN-comites-seguridad-salud](Centros docentes no universitarios/2001-ORDEN-comites-seguridad-salud.md): Orden que crea los Comités de Seguridad y Salud en el ámbito del personal transferido en materia de Educación no universitaria.
 
 
 
