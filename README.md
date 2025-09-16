@@ -35,6 +35,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2000-ORDEN-profesorado-itinerante](Centros docentes no universitarios/2000-ORDEN-profesorado-itinerante.md): Orden que establece medidas relativas al profesorado singular itinerante que presta servicios en la Comunidad Autónoma de Castilla y León.
 - [2000-ORDEN-interinos-provision](Centros docentes no universitarios/2000-ORDEN-interinos-provision.md): Orden que regula la provisión de puestos de trabajo docentes no universitarios en régimen de interinidad en Castilla y León.
 - [2000-ORDEN-gratificaciones-extraordinarias](Centros docentes no universitarios/2000-ORDEN-gratificaciones-extraordinarias.md): Orden que determina los importes complementarios de las gratificaciones extraordinarias previstas en la LOGSE para funcionarios docentes no universitarios de Castilla y León.
+- [2000-RESOLUCION-instituciones-colaboradoras-formacion](Centros docentes no universitarios/2000-RESOLUCION-instituciones-colaboradoras-formacion.md): Resolución que regula la constitución de instituciones privadas sin ánimo de lucro como instituciones colaboradoras en la formación del profesorado en Castilla y León.
 
 
 
