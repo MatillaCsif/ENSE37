@@ -29,6 +29,7 @@ Normativa Castilla y León (Educación) para ALECYL
 - [2008-EDU-1076-desplazamiento-maestros](Centros docentes no universitarios/2008-EDU-1076-desplazamiento-maestros.md): Orden que regula el desplazamiento, cese y adscripción de maestros afectados por modificaciones en las plantillas jurídicas de centros públicos.
 - [2006-EDU-1967-actualizacion-asesores](Centros docentes no universitarios/2006-EDU-1967-actualizacion-asesores.md): Orden que regula la actualización y perfeccionamiento de asesores y jefes de las Áreas de Programas Educativos de las Direcciones Provinciales de Educación.
 - [2006-DECRETO-84-consolidacion-directores](Centros docentes no universitarios/2006-DECRETO-84-consolidacion-directores.md): Decreto que regula la consolidación parcial del complemento específico por el ejercicio del cargo de director en centros docentes públicos no universitarios.
+- [2004-DECRETO-92-inspeccion-educativa](Centros docentes no universitarios/2004-DECRETO-92-inspeccion-educativa.md): Decreto que regula la organización, funciones y atribuciones de la Inspección Educativa en Castilla y León.
 
 
 
