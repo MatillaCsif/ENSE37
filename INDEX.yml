@@ -69,10 +69,10 @@ categorias:
       archivo: 2014-EDU-1057-formacion-permanente-docente.md
       resumen: Regula la formación permanente del profesorado no universitario en Castilla y León. Ha sido modificada por las órdenes EDU/1020/2016, EDU/169/2019 y EDU/247/2023.
       palabras_clave: [formación permanente, profesorado, centros públicos, certificación, competencia digital, registro, certificados por rol, ponente, tutor, solicitud digital, educacyl]
-      - slug: orden-edu-1056-2014-red-formacion
+    - slug: orden-edu-1056-2014-red-formacion
       nombre: ORDEN EDU/1056/2014 – Organización de la Red de Formación del Profesorado
       carpeta: Centros docentes no universitarios
-      archivo: 2014-EDU-1056-organizacion-red-formacion.docente.md
+      archivo: 2014-EDU-1056-organizacion-red-formacion-docente.md
       resumen: Regula la organización y funcionamiento de la Red de formación, planificación y evaluación de la formación permanente del profesorado. Modificada por las órdenes EDU/1019/2016 y EDU/602/2023.
       palabras_clave: [Red de formación, formación permanente, CFIE, planificación, evaluación, mandatos CFIE, organización docente]
     - slug: decreto-51-2014-formacion-permanente
@@ -209,4 +209,17 @@ categorias:
       palabras_clave: [registro de personal docente, gestión administrativa, nombramientos, ceses, situaciones administrativas]
 
 
-        
+  profesorad_inspeccion: []
+  titulos: []
+  educacion_infantil_primaria: []
+  educacion_secundaria_bachillerato: []
+  formacion_profesional: []
+  personas_adultas: []
+  ensenanzas_regimen_especial: []
+  organos_colegiados_participacion: []
+  regimen_conciertos: []
+  contratacion_gastos_precios_publicos: []
+  bases_reguladoras: []
+  premios_reconocimientos: []
+  transferencias_desconcentracion_delegacion: []
+ 
