@@ -1,0 +1,225 @@
+categorias:
+  permisos: []
+  licencias: []
+  oposiciones: []
+  centros_docentes_no_universitarios:
+    - slug: orden-edu-614-2024-escuelas-saludables
+      nombre: ORDEN EDU/614/2024 – Escuelas Saludables
+      carpeta: Centros docentes no universitarios
+      archivo: 2024-EDU-614-escuelas-saludables.md
+      resumen: Regula el proyecto y la Red de Escuelas Saludables de Castilla y León.
+      palabras_clave: [escuelas saludables, innovación educativa, salud, centros escolares, red]
+    - slug: decreto-50-2022-carrera-profesional-docente
+      nombre: DECRETO 50/2022 – Carrera Profesional Horizontal
+      carpeta: Centros docentes no universitarios
+      archivo: 2022-EDU-050-carrera-profesional-horizontal.md
+      resumen: Regula la carrera profesional horizontal para personal docente de centros públicos.
+      palabras_clave: [carrera profesional, grados, evaluación docente, personal docente, centros públicos]
+    - slug: orden-edu-1353-2018-acreditacion-privada
+      nombre: ORDEN EDU/1353/2018 – Acreditación Docencia Privada
+      carpeta: Centros docentes no universitarios
+      archivo: 2018-EDU-1353-acreditacion-docencia-privada.md
+      resumen: Regula el procedimiento para acreditar a docentes que imparten en centros de titularidad privada.
+      palabras_clave: [docencia privada, acreditación, centros privados, requisitos, titulaciones, dirección provincial]
+    - slug: orden-edu-1205-2018-especial-dificultad
+      nombre: ORDEN EDU/1205/2018 – Puestos Docentes de Especial Dificultad
+      carpeta: Centros docentes no universitarios
+      archivo: 2018-EDU-1205-puestos-especial-dificultad.md
+      resumen: Establece criterios para calificar puestos docentes como de especial dificultad.
+      palabras_clave: [especial dificultad, puestos docentes, criterios sociales, zonas rurales, centros complejos]
+    - slug: orden-edu-1070-2017-protocolo-agresiones
+      nombre: ORDEN EDU/1070/2017 – Protocolo Agresiones al Personal Docente
+      carpeta: Centros docentes no universitarios
+      archivo: 2017-EDU-1070-protocolo-agresiones-docentes.md
+      resumen: Establece el protocolo de actuación frente a agresiones al personal docente y no docente.
+      palabras_clave: [agresiones, protocolo, protección docente, centros públicos, medidas disciplinarias]
+    - slug: orden-edu-716-2017-profesor-honorifico
+      nombre: ORDEN EDU/716/2017 – Profesor Honorífico Colaborador
+      carpeta: Centros docentes no universitarios
+      archivo: 2017-EDU-716-profesor-honorifico-colaborador.md
+      resumen: Regula la figura del profesor honorífico colaborador y su procedimiento de nombramiento.
+      palabras_clave: [profesor honorífico, colaborador, jubilados, educación no universitaria, mentoría]
+    - slug: orden-edu-694-2017-puestos-itinerantes
+      nombre: ORDEN EDU/694/2017 – Profesorado en Puestos Compartidos o Itinerantes
+      carpeta: Centros docentes no universitarios
+      archivo: 2017-EDU-694-profesorado-puestos-itinerantes.md
+      resumen: Regula condiciones del profesorado en puestos compartidos e itinerantes en centros públicos.
+      palabras_clave: [puestos compartidos, itinerantes, profesorado, desplazamientos, organización horaria]
+    - slug: orden-edu-106-2016-solicitudes-aplicativo
+      nombre: ORDEN EDU/106/2016 – Solicitudes vía Aplicativo Informático
+      carpeta: Centros docentes no universitarios
+      archivo: 2016-EDU-106-solicitudes-aplicativo-informatico.md
+      resumen: Regula la obligatoriedad de presentar solicitudes en procesos docentes mediante aplicativo informático.
+      palabras_clave: [solicitudes, aplicativo informático, procesos de selección, concursos, telemático]
+    - slug: orden-edu-834-2015-plan-seguridad-digital
+      nombre: ORDEN EDU/834/2015 – Plan de Seguridad y Confianza Digital
+      carpeta: Centros docentes no universitarios
+      archivo: 2015-EDU-834-plan-seguridad-confianza-digital.md
+      resumen: Regula el Plan de Seguridad y Confianza Digital en el ámbito educativo.
+      palabras_clave: [seguridad digital, confianza digital, TIC, ciudadanía digital, educación digital]
+    - slug: orden-edu-832-2015-formapps
+      nombre: ORDEN EDU/832/2015 – Proyecto FORMapps
+      carpeta: Centros docentes no universitarios
+      archivo: 2015-EDU-832-formapps-metodologias-formacion-docente.md
+      resumen: Regula el proyecto FORMapps para la formación digital del profesorado en centros públicos.
+      palabras_clave: [FORMapps, formación docente, competencia digital, TIC, metodologías]
+    - slug: orden-edu-1057-2014-formacion-permanente
+      nombre: ORDEN EDU/1057/2014 – Formación Permanente del Profesorado
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-EDU-1057-formacion-permanente-docente.md
+      resumen: Regula la formación permanente del profesorado no universitario en Castilla y León. Ha sido modificada por las órdenes EDU/1020/2016, EDU/169/2019 y EDU/247/2023.
+      palabras_clave: [formación permanente, profesorado, centros públicos, certificación, competencia digital, registro, certificados por rol, ponente, tutor, solicitud digital, educacyl]
+    - slug: orden-edu-1056-2014-red-formacion
+      nombre: ORDEN EDU/1056/2014 – Organización de la Red de Formación del Profesorado
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-EDU-1056-organizacion-red-formacion-docente.md
+      resumen: Regula la organización y funcionamiento de la Red de formación, planificación y evaluación de la formación permanente del profesorado. Modificada por las órdenes EDU/1019/2016 y EDU/602/2023.
+      palabras_clave: [Red de formación, formación permanente, CFIE, planificación, evaluación, mandatos CFIE, organización docente]
+    - slug: decreto-51-2014-formacion-permanente
+      nombre: DECRETO 51/2014 – Formación Permanente del Profesorado
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-DECRETO-51-formacion-permanente-docente.md
+      resumen: Establece el marco estructural y estratégico de la formación permanente del profesorado no universitario en Castilla y León, incluyendo la Red de formación, planes y evaluación. [BOCYL 10/10/2014](https://bocyl.jcyl.es/boletines/2014/10/10/pdf/BOCYL-D-10102014-1.pdf)
+      palabras_clave: [formación permanente, profesorado, Red de formación, CFIE, planificación, evaluación, itinerarios formativos, coordinación]
+    - slug: orden-edu-670-2014-permisos-sindicales
+      nombre: ORDEN EDU/670/2014 – Permisos por elecciones sindicales
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-EDU-670-permisos-elecciones-sindicales.md
+      resumen: Regula los permisos del personal docente en procesos de elecciones sindicales, incluyendo a electores, candidatos, interventores y miembros de mesas electorales. [BOCYL 31/07/2014](https://bocyl.jcyl.es/boletines/2014/07/31/pdf/BOCYL-D-31072014-2.pdf)
+      palabras_clave: [permisos sindicales, elecciones sindicales, docente, voto, mesa electoral, interventor, apoderado, permiso retribuido]
+    - slug: orden-edu-423-2014-vacaciones-permisos
+      nombre: ORDEN EDU/423/2014 – Vacaciones, Permisos y Licencias Docentes
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-EDU-423-vacaciones-permisos-licencias.md
+      resumen: Establece la adaptación del régimen de vacaciones, permisos y licencias del personal docente conforme al Decreto 59/2013. Modificada por las órdenes EDU/113/2015 y EDU/693/2017. [BOCYL 05/06/2014](https://bocyl.jcyl.es/boletines/2014/06/05/pdf/BOCYL-D-05062014-1.pdf)
+      palabras_clave: [vacaciones, permisos, licencias, conciliación, personal docente, Castilla y León, Decreto 59/2013]
+    - slug: ley-3-2014-autoridad-profesorado
+      nombre: LEY 3/2014 – Autoridad del Profesorado
+      carpeta: Centros docentes no universitarios
+      archivo: 2014-LEY-3-autoridad-profesorado.md
+      resumen: Reconoce la autoridad del profesorado como autoridad pública, garantizando presunción de veracidad, protección jurídica y medidas de convivencia escolar. [BOCYL 02/05/2014](https://bocyl.jcyl.es/boletines/2014/05/02/pdf/BOCYL-D-02052014-1.pdf)
+      palabras_clave: [autoridad del profesorado, protección docente, presunción de veracidad, convivencia escolar, defensa jurídica]
+    - slug: orden-edu-381-2013-especialidades-maestros
+      nombre: ORDEN EDU/381/2013 – Especialidades en el Cuerpo de Maestros
+      carpeta: Centros docentes no universitarios
+      archivo: 2013-EDU-381-especialidades-maestros.md
+      resumen: Regula el procedimiento para que los maestros funcionarios adquieran nuevas especialidades docentes en Castilla y León.
+      palabras_clave: [especialidades docentes, cuerpo de maestros, adquisición de especialidades, consejería de educación, función pública docente]
+    - slug: orden-edu-524-2012-consolidacion-directores
+      nombre: ORDEN EDU/524/2012 – Consolidación por Dirección
+      carpeta: Centros docentes no universitarios
+      archivo: 2012-EDU-524-consolidacion-directores.md
+      resumen: Regula el procedimiento para el reconocimiento de la consolidación parcial del complemento específico por el ejercicio del cargo de director.
+      palabras_clave: [consolidación parcial, complemento específico, dirección centros públicos, reconocimiento administrativo, directores]
+    - slug: orden-edu-454-2012-redistribucion-efectivos
+      nombre: ORDEN EDU/454/2012 – Redistribución de Efectivos Docentes
+      carpeta: Centros docentes no universitarios
+      archivo: 2012-EDU-454-redistribucion-efectivos.md
+      resumen: Establece criterios aplicables en procesos de redistribución y recolocación de efectivos docentes en centros públicos de Castilla y León.
+      palabras_clave: [redistribución, recolocación, efectivos docentes, cuerpos docentes, funcionarios de carrera, normativa modificada]
+    - slug: orden-edu-1134-2011-auxiliares-conversacion
+      nombre: ORDEN EDU/1134/2011 – Auxiliares de Conversación
+      carpeta: Centros docentes no universitarios
+      archivo: 2011-EDU-1134-auxiliares-conversacion.md
+      resumen: Regula la actividad de los auxiliares de conversación seleccionados por el Ministerio de Educación en centros de Castilla y León. Modificada por órdenes en 2014, 2020 y 2023.
+      palabras_clave: [auxiliares de conversación, apoyo lingüístico, programas bilingües, lenguas extranjeras, normativa modificada]
+    - slug: resolucion-20-2011-titulaciones-centros-privados
+      nombre: RESOLUCIÓN 20/06/2011 – Titulaciones Profesorado Centros Privados
+      carpeta: Centros docentes no universitarios
+      archivo: 2011-RESOLUCION-20-titulaciones-centros-privados.md
+      resumen: Regula las titulaciones necesarias para ejercer la docencia en centros privados de Castilla y León, estableciendo equivalencias de títulos.
+      palabras_clave: [titulaciones profesorado, centros privados, requisitos académicos, equivalencia títulos, normativa autonómica]
+    - slug: orden-edu-1727-2009-estancias-formacion-empresas
+      nombre: ORDEN EDU/1727/2009 – Estancias de Profesorado de FP en Empresas
+      carpeta: Centros docentes no universitarios
+      archivo: 2009-EDU-1727-estancias-formacion-empresas.md
+      resumen: Regula la participación del profesorado de especialidades de Formación Profesional en estancias formativas en empresas, cofinanciadas por el Fondo Social Europeo. Modificada en 2015.
+      palabras_clave: [formación profesional, estancias en empresas, profesorado FP, fondo social europeo, relación empresa-escuela, normativa modificada]
+    - slug: orden-edu-1373-2008-inspeccion-educativa
+      nombre: ORDEN EDU/1373/2008 – Inspección Educativa
+      carpeta: Centros docentes no universitarios
+      archivo: 2008-EDU-1373-inspeccion-educativa.md
+      resumen: Desarrolla el Decreto 92/2004 y regula la organización, funciones y planificación de la Inspección Educativa en Castilla y León.
+      palabras_clave: [inspección educativa, cuerpo de inspectores, evaluación, supervisión, atribuciones, decreto 92/2004]
+    - slug: orden-edu-1076-2008-desplazamiento-maestros
+      nombre: ORDEN EDU/1076/2008 – Desplazamiento y Adscripción de Maestros
+      carpeta: Centros docentes no universitarios
+      archivo: 2008-EDU-1076-desplazamiento-maestros.md
+      resumen: Regula el desplazamiento, cese y adscripción de maestros con destino definitivo debido a modificaciones de plantillas jurídicas en centros públicos.
+      palabras_clave: [desplazamiento, cese, maestros, adscripción provisional, plantillas jurídicas, funcionarios docentes]
+    - slug: orden-edu-1967-2006-actualizacion-asesores
+      nombre: ORDEN EDU/1967/2006 – Actualización y perfeccionamiento de asesores y jefes de Áreas de Programas Educativos
+      carpeta: Centros docentes no universitarios
+      archivo: 2006-EDU-1967-actualizacion-asesores.md
+      resumen: Regula las actuaciones de actualización y perfeccionamiento de asesores y jefes de las Áreas de Programas Educativos de las Direcciones Provinciales de Educación. [BOCYL 15/12/2006](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-edu-1967-2006-11-diciembre-regulan-actuaciones-actual.ficheros/1772473-Orden%20EDU-1967-2006%2Cde%2011%20de%20diciembre.pdf)
+      palabras_clave: [asesores, jefes de área, programas educativos, actualización, perfeccionamiento]
+    - slug: decreto-84-2006-consolidacion-directores
+      nombre: DECRETO 84/2006 – Consolidación parcial complemento específico por dirección
+      carpeta: Centros docentes no universitarios
+      archivo: 2006-DECRETO-84-consolidacion-directores.md
+      resumen: Regula la consolidación parcial del componente singular del complemento específico por el ejercicio del cargo de director de centros docentes públicos no universitarios. [BOCYL 07/12/2006](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/decreto-84-2006-30-noviembre-regula-consolidacion-parcial-c.ficheros/1772476-Decreto%2084-2006%2Cde%2030%20de%20noviembre.pdf)
+      palabras_clave: [consolidación, complemento específico, dirección, centros públicos, directores]
+    - slug: decreto-92-2004-inspeccion-educativa
+      nombre: DECRETO 92/2004 – Inspección Educativa en Castilla y León
+      carpeta: Centros docentes no universitarios
+      archivo: 2004-DECRETO-92-inspeccion-educativa.md
+      resumen: Regula la organización, funciones y atribuciones de la Inspección Educativa en Castilla y León. Desarrollado posteriormente por la ORDEN EDU/1373/2008. [BOCYL 03/08/2004](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/decreto-92-2004-29-julio-regula-inspeccion-educativa-castil.ficheros/2458-1.pdf)
+      palabras_clave: [inspección educativa, supervisión, evaluación, atribuciones, organización, inspectores]
+    - slug: orden-2002-analogia-retributiva-concertada
+      nombre: ORDEN 15/11/2002 – Analogía retributiva profesorado concertada
+      carpeta: Centros docentes no universitarios
+      archivo: 2002-ORDEN-analogia-retributiva-concertada.md
+      resumen: Establece la analogía retributiva del profesorado de la enseñanza concertada con el profesorado de la enseñanza pública en Castilla y León. [BOCYL 15/11/2002](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-15-noviembre-2002-consejeria-educacion-cultura-establ.ficheros/315657-O_2002_11_15.pdf)
+      palabras_clave: [analogía retributiva, profesorado concertado, equiparación salarial, retribuciones, conciertos educativos]
+    - slug: orden-2001-comites-seguridad-salud
+      nombre: ORDEN 26/12/2001 – Comités de Seguridad y Salud en Educación no universitaria
+      carpeta: Centros docentes no universitarios
+      archivo: 2001-ORDEN-comites-seguridad-salud.md
+      resumen: Crea Comités de Seguridad y Salud en el ámbito del personal transferido en materia de Educación no universitaria de Castilla y León. [BOCYL 15/01/2002](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-26-diciembre-2001-consejeria-presidencia-administraci.ficheros/315656-O_2001_12_26-1.pdf)
+      palabras_clave: [comités de seguridad y salud, prevención de riesgos, personal transferido, educación no universitaria]
+    - slug: orden-2000-profesorado-itinerante
+      nombre: ORDEN 26/12/2000 – Profesorado singular itinerante
+      carpeta: Centros docentes no universitarios
+      archivo: 2000-ORDEN-profesorado-itinerante.md
+      resumen: Establece medidas relativas al profesorado singular itinerante que presta servicios en Castilla y León. [BOCYL 26/12/2000](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-26-diciembre-2000-establecen-determinadas-medidas-rel.ficheros/315639-O_2001_12_26.pdf)
+      palabras_clave: [profesorado itinerante, puestos singulares, desplazamientos, compensación, horario]
+    - slug: orden-2000-interinos-provision
+      nombre: ORDEN 04/04/2000 – Provisión de puestos docentes interinos
+      carpeta: Centros docentes no universitarios
+      archivo: 2000-ORDEN-interinos-provision.md
+      resumen: Regula la provisión de puestos de trabajo docentes no universitarios en régimen de interinidad en Castilla y León. [BOCYL 04/04/2000](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-4-abril-2000-consejeria-educacion-cultura-regula-prov.ficheros/315655-O_2000_04_04.pdf)
+      palabras_clave: [interinos, provisión de puestos, adjudicación de plazas, profesorado, nombramientos]
+    - slug: orden-2000-gratificaciones-extraordinarias
+      nombre: ORDEN 14/03/2000 – Gratificaciones extraordinarias funcionarios docentes
+      carpeta: Centros docentes no universitarios
+      archivo: 2000-ORDEN-gratificaciones-extraordinarias.md
+      resumen: Determina los importes complementarios de las gratificaciones extraordinarias previstas en la LOGSE para el profesorado funcionario de niveles no universitarios en Castilla y León. [BOCYL 14/03/2000](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/orden-14-marzo-2000-consejeria-educacion-cultura-determinan.ficheros/315559-O_2000_03_14.pdf)
+      palabras_clave: [gratificaciones extraordinarias, importes complementarios, funcionarios docentes, retribuciones, docencia no universitaria]
+    - slug: resolucion-2000-instituciones-colaboradoras-formacion
+      nombre: RESOLUCIÓN 14/02/2000 – Instituciones colaboradoras en formación del profesorado
+      carpeta: Centros docentes no universitarios
+      archivo: 2000-RESOLUCION-instituciones-colaboradoras-formacion.md
+      resumen: Regula la constitución de instituciones privadas sin ánimo de lucro como instituciones colaboradoras en la realización de actividades de formación del profesorado. [BOCYL 14/02/2000](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/resolucion-14-febrero-2000-direccion-general-formacion-prof.ficheros/315659-R_2000_02_14.pdf)
+      palabras_clave: [instituciones colaboradoras, formación del profesorado, entidades privadas, innovación educativa, actividades formativas]
+    - slug: decreto-19-2000-registro-personal-docente
+      nombre: DECRETO 19/2000 – Registro de personal docente no universitario
+      carpeta: Centros docentes no universitarios
+      archivo: 2000-DECRETO-19-registro-personal-docente.md
+      resumen: Regula la gestión del registro de personal docente no universitario en Castilla y León. Incluye corrección de errores publicada el 08/02/2000. [BOCYL 03/02/2000](https://www.educa.jcyl.es/es/informacion/normativa-educacion/educacion-universitaria-1e800/profesorado-personal-centros-docentes-inspeccion-educativa/decreto-19-2000-3-febrero-regula-gestion-registro-personal.ficheros/315552-d_2000_19.pdf)
+      palabras_clave: [registro de personal docente, gestión administrativa, nombramientos, ceses, situaciones administrativas]
+
+
+  profesorad_inspeccion: []
+  titulos: []
+  educacion_infantil_primaria: []
+  educacion_secundaria_bachillerato: []
+  formacion_profesional: []
+  personas_adultas: []
+  ensenanzas_regimen_especial: []
+  organos_colegiados_participacion: []
+  regimen_conciertos: []
+  contratacion_gastos_precios_publicos: []
+  bases_reguladoras: []
+  premios_reconocimientos: []
+  transferencias_desconcentracion_delegacion: []
+ 
